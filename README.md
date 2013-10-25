@@ -1,3 +1,4 @@
+```c
 /*
  * Author: C2C John Miller
  * Driver library for the MSP430 LCD screen
@@ -154,3 +155,4 @@ void delayMicro();
  Subroutines used: __delay_cycles()
  ---------------------------------------------------*/
 void delayMilli();
+```
